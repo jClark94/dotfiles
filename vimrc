@@ -29,6 +29,7 @@ Bundle 'git://git.wincent.com/command-t.git'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'ervandew/supertab'
 Bundle 'tpope/vim-fugitive'
+Bundle 'ervandew/supertab'
 filetype plugin indent on     " required!
 "
 " Brief help
